@@ -35,7 +35,7 @@ for(let item of list) {
     if(!cart.includes(item)) {
         newList.push(item)
     }
-}
+}//update
 console.log(newList)
 //solve the problem with a method for this one^^^
 
